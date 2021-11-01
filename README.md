@@ -8,7 +8,7 @@
   <center>
   <h1 id="title"><u>Christiano Ronaldo</u></h1>
    <div id="img-div">
-    <img class="center" src="images/Cristiano-Ronaldo-Manchester-United-Everton.jpg" alt="Christiano Ronaldo" id="image">
+    <img class="center" src="Cristiano-Ronaldo-Manchester-United-Everton.jpg" alt="Christiano Ronaldo" id="image">
     <p id="img-caption"><b><i>Portuguese professional footballer</i></b></p>
    </center>
    </div>
